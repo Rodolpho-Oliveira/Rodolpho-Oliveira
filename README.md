@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-My name is José Rodolpho De O. Gomes and I'm an 19 years old web full-stack developer student at Driven Education.
+My name is José Rodolpho De O. Gomes and I'm an 19 years old web full-stack developer!
 
 Take a look at my projects down below!
 
