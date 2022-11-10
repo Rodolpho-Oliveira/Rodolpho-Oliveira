@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-My name is José Rodolpho De O. Gomes and I'm an 19 years old web full-stack developer!
+My name is José Rodolpho De O. Gomes and I'm a 19 years old web full-stack developer!
 
 <img src="https://i.pinimg.com/originals/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg" width = 220px align = right />
 
