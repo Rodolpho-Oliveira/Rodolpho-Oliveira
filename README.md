@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-My name is José Rodolpho De O. Gomes and I'm a 21-year-old web full-stack developer!
+My name is José Rodolpho De O. Gomes and I'm a 21-year-old web back-stack developer!
 
 ## 🛠🥽 Technologies/Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
