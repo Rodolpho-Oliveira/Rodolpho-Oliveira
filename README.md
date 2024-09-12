@@ -30,6 +30,6 @@ My name is José Rodolpho De O. Gomes and I'm a 21-year-old web full-stack devel
 
 ## 📈📊 Summary
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodolpho-Oliveira&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolpho-Oliveira&layout=compact&theme=tokyonight" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Rodolpho-Oliveira&show_icons=true&theme=tokyonight" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolpho-Oliveira&layout=compact&theme=tokyonight" />
 </div>
